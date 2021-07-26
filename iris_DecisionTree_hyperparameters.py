@@ -12,7 +12,7 @@ max_depth = int(sys.argv[1])
 min_samples_leaf = int(sys.argv[2])
 min_samples_split = int(sys.argv[3])
 
-#read in data
+#read in data.
 input_file = "iris_orig.csv"
 iris_df = pd.read_csv(input_file, header = 0)
  
