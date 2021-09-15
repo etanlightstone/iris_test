@@ -2,7 +2,7 @@ import pickle
 import pandas as pd
  
 #bring in serialized model
-with open('model.pkl', 'rb') as f:
+with open('../artifacts/model.pkl', 'rb') as f:
     classifier = pickle.load(f)
     
     
