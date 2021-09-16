@@ -1,2 +1,2 @@
-# this is a fun python file. server side change
+# this is a fun python file. server side changes
 print("hello\n bye\n")
