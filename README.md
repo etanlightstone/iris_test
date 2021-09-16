@@ -1,6 +1,6 @@
 # iris_code additions
 
-I added a couple of ? cells to the notebook - the last one is important because it serializes and exports the trained model
+I added a couple of the cells to the notebook - the last one is important because it serializes and exports the trained model
 to the /mnt directory. This model is then used in the predictor.py script to create a model API. 
 
 Model API - create an API using predictor.py as the script and predict as the function. An example input to use in the tester box is:
